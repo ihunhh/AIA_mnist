@@ -1,1 +1,1 @@
-# AIA_mnist_hw2
+# AIA mnist
